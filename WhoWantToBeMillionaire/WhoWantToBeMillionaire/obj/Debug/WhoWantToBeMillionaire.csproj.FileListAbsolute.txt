@@ -1,0 +1,10 @@
+C:\cours 14\WhoWantToBeMillionaire\WhoWantToBeMillionaire\bin\Debug\WhoWantToBeMillionaire.exe.config
+C:\cours 14\WhoWantToBeMillionaire\WhoWantToBeMillionaire\bin\Debug\WhoWantToBeMillionaire.exe
+C:\cours 14\WhoWantToBeMillionaire\WhoWantToBeMillionaire\bin\Debug\WhoWantToBeMillionaire.pdb
+C:\cours 14\WhoWantToBeMillionaire\WhoWantToBeMillionaire\obj\Debug\WhoWantToBeMillionaire.csproj.AssemblyReference.cache
+C:\cours 14\WhoWantToBeMillionaire\WhoWantToBeMillionaire\obj\Debug\WhoWantToBeMillionaire.Form1.resources
+C:\cours 14\WhoWantToBeMillionaire\WhoWantToBeMillionaire\obj\Debug\WhoWantToBeMillionaire.Properties.Resources.resources
+C:\cours 14\WhoWantToBeMillionaire\WhoWantToBeMillionaire\obj\Debug\WhoWantToBeMillionaire.csproj.GenerateResource.cache
+C:\cours 14\WhoWantToBeMillionaire\WhoWantToBeMillionaire\obj\Debug\WhoWantToBeMillionaire.csproj.CoreCompileInputs.cache
+C:\cours 14\WhoWantToBeMillionaire\WhoWantToBeMillionaire\obj\Debug\WhoWantToBeMillionaire.exe
+C:\cours 14\WhoWantToBeMillionaire\WhoWantToBeMillionaire\obj\Debug\WhoWantToBeMillionaire.pdb
